@@ -1,1 +1,1 @@
-export const url = "https://chat-gpt-ldgi.vercel.app";
+export const url = "https://chat-gpt-with-login.vercel.app";
